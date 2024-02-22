@@ -1,0 +1,34 @@
+_repo: The-Mediaeval-Stage-Volume-1-of-2_73000
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chambers, E. K. (Edmund Kerchever)
+    aliases:
+    - Chambers, Edmund Kerchever
+    - Chambers, Sir Edmund Kerchever
+    birthdate: 1866
+    deathdate: 1954
+    gutenberg_agent_id: '33297'
+    url: http://www.gutenberg.org/2009/agents/33297
+    wikipedia: https://en.wikipedia.org/wiki/E._K._Chambers
+description: ''
+gutenberg_issued: '2024-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73000'
+language: en
+pgterms:marc904: https://archive.org/details/mediaevalstage01chamuoft/page/n5
+pgterms:marc905: 20181229000628chambers
+pgterms:marc906: '1903'
+pgterms:marc907: GB
+production_note: Tim Lindell, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bOxford University Press, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Mediaeval Stage, Volume 1 (of 2)
+url: http://www.gutenberg.org/ebooks/73000
