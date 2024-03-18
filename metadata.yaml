@@ -1,5 +1,8 @@
 _repo: The-Mediaeval-Stage-Volume-1-of-2_73000
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73000-h/images/cover.jpg
 creator:
   author:
     agent_name: Chambers, E. K. (Edmund Kerchever)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33297
     wikipedia: https://en.wikipedia.org/wiki/E._K._Chambers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73000#The-Mediaeval-Stage-Volume-1-of-2
 gutenberg_issued: '2024-02-20'
 gutenberg_type: Text
 identifiers:
